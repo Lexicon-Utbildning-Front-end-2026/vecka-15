@@ -1,6 +1,6 @@
 # 📅 Schema Vecka 15: Next.js
 
-Vi går arbetar med hur man kan skapa interaktivitet i "client components" (ex med hooks) och hur man kan tänka i uppdelning server/client i Next.js.
+Vi går arbetar med hur man kan skapa interaktivitet i "client components" (ex med hooks) och hur man kan tänka i uppdelning server/client i Next.js. Jobba vidare med webshop-admin och era daily standups under hela processen. 
 
 Webshop - Admin v 2/3
 
