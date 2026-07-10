@@ -10,6 +10,8 @@ Webshop - Admin v 2/3
 
 ## Client vs Server
 ![Server vs Client - från https://levelup.gitconnected.com/next-js-client-side-and-server-side-components-when-and-what-to-use-7c4beccf1eab](https://miro.medium.com/v2/resize:fit:720/format:webp/1*n-TVYb7Hu1LswYOXm2OnzA.png)
+
+
 Rendering Lifecycle of Server and Client (från https://javascript.plainenglish.io/next-js-15-tutorial-part-38-rendering-lifecycle-of-server-and-client-components-7a80006e14a2)
 ![Rendering Lifecycle of Server and Client ](https://miro.medium.com/v2/resize:fit:1400/1*AQ1bKekPg_DBR1zDog_MaA.png)
 
