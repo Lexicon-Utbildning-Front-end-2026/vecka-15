@@ -88,7 +88,6 @@ Repetition
 
 ---
 
-## 📅 Fredag: Sprint Review 
+## 📅 Fredag: Sprint Review
 
-Ni kör sprint review på det ni arbetat med i webshop-admin denna vecka. 
----
+Ni kör sprint review på det ni arbetat med i webshop-admin denna vecka.
