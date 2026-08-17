@@ -20,7 +20,6 @@ Rendering Lifecycle of Server and Client (från https://javascript.plainenglish.
 ### 🎯 Mål för dagen
 
 * Vi lär oss hur Next.js delar upp arbetet mellan servern och webbläsaren/klienten
-* Ev searchParams i server components (PageProps)
 
 ### 📚 Material
 
