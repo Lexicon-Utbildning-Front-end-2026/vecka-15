@@ -32,7 +32,6 @@ Rendering Lifecycle of Server and Client (från https://javascript.plainenglish.
 * [React Docs: Server components](https://react.dev/reference/rsc/server-components)
 * [React Docs: "use client"](https://react.dev/reference/rsc/use-client)
 * [React Use Client](https://react.dev/reference/rsc/use-client)
-* [Next.js Docs: Route Handlers (API)](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
 
 ---
 
