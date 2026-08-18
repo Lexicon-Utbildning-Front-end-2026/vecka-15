@@ -55,6 +55,9 @@ Rendering Lifecycle of Server and Client (från https://javascript.plainenglish.
 #### 💻 E-Learning
 * [React Hooks](https://app.pluralsight.com/ilx/video-courses/react-18-using-hooks/course-overview)
 
+#### 📃 Läsning
+* [React docs - Hooks](https://react.dev/reference/react/hooks)
+
 ---
 
 ## 📅 Onsdag: URL state management
